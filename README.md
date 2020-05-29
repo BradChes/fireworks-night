@@ -7,7 +7,7 @@
 A game about setting off fireworks.
 
 ## Demonstration
-//TODO Small demonstration as to what the game does when on device.
+Small demonstration as to what the game does when on device.
 </br>
 <p align="center">
 <img src="demo/fireworks-night.gif" alt="Application demonstration"
